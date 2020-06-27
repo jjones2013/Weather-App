@@ -1,2 +1,2 @@
 # Weather-App
-This app gives you the local weather in your area.
+This app will give you the local weather in your area.
